@@ -2,9 +2,8 @@
 # JH9892's Develop Profile 👋
 ---
 ## Who is JH9892?
- >   - He is college student.
- >   - He live in Korea, Daejeon.  
  >   - He really likes development and runs a small group called 'CMD'.  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JH9892)](https://github.com/anuraghazra/github-readme-stats)
 ## What is his purpose?
  >   - The first is **The ultimate goal as a developer is to have the ability to guarantee success with just one's own name.**
  >   - The second is that **I want to have the ability to help My people.**  
