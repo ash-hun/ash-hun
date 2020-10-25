@@ -9,25 +9,11 @@
  >   - The second is that **I want to have the ability to help My people.**  
 ## What is Interest?
  >  - **Frontend Tech**
- >  > - *html, css, JS*
- >  > - *React* (I want to go further and study *React Native*.)  
- >  > - *Electron* (I ultimately hope to work above the Full-Stack developer with electron!)  
+ >  > ![Html Badge](http://img.shields.io/badge/-%20Html5-ffd1c4?style=flat-square&logo=HTML5)
+      ![Css Badge](http://img.shields.io/badge/-%20Css3-blue?style=flat-square&logo=CSS3)
+      ![JavaScript Badge](http://img.shields.io/badge/-%20JavaScript-yellow?style=flat-square&logo=JavaScript)
+      ![React Badge](http://img.shields.io/badge/-%20React-0088CC?style=flat-square&logo=React)
+      ![Electron Badge](http://img.shields.io/badge/-%20Electron-9ad7db?style=flat-square&logo=Electron)
  > - **AI programming**
- >  > - *Tensorflow*
- >  > - *PyTorch*
- >  > - *Keras*
-
-<!--
-**JH9892/JH9892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ >  >  ![Tensorflow Badge](http://img.shields.io/badge/-%20Tensorflow-ffb073?style=flat-square&logo=TensorFlow)
+       ![PyTorch Badge](http://img.shields.io/badge/-%20PyTorch-gray?style=flat-square&logo=PyTorch)
