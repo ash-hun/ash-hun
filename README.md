@@ -1,20 +1,21 @@
----
-# JH9892's Develop Profile 👋
----
-## Who is JH9892?
- >   - He really likes development and runs a small group called 'CMD'.  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JH9892)](https://github.com/anuraghazra/github-readme-stats)  
+<h1 align="center">Hi 👋, I'm Jh9892</h1>
+<h3 align="center">Mosst passionate frontend & AI developer! He managed small group 'CMD'.</h3>
 
-## What is his purpose?
- >   - The first is **The ultimate goal as a developer is to have the ability to guarantee success with just one's own name.**
- >   - The second is that **I want to have the ability to help My people.**  
-## What is Interest?
- >  - **Frontend Tech**
- >  > ![Html Badge](http://img.shields.io/badge/-%20Html5-ffd1c4?style=flat-square&logo=HTML5)
-      ![Css Badge](http://img.shields.io/badge/-%20Css3-blue?style=flat-square&logo=CSS3)
-      ![JavaScript Badge](http://img.shields.io/badge/-%20JavaScript-yellow?style=flat-square&logo=JavaScript)
-      ![React Badge](http://img.shields.io/badge/-%20React-0088CC?style=flat-square&logo=React)
-      ![Electron Badge](http://img.shields.io/badge/-%20Electron-9ad7db?style=flat-square&logo=Electron)
- > - **AI programming**
- >  >  ![Tensorflow Badge](http://img.shields.io/badge/-%20Tensorflow-ffb073?style=flat-square&logo=TensorFlow)
-       ![PyTorch Badge](http://img.shields.io/badge/-%20PyTorch-gray?style=flat-square&logo=PyTorch)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jh9892&label=Profile%20views&color=0e75b6&style=flat" alt="jh9892" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jh9892" alt="jh9892" /></a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh9892&show_icons=true&locale=en&layout=compact" alt="jh9892" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh9892&show_icons=true&locale=en" alt="jh9892" /></p>
