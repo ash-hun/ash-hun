@@ -15,7 +15,10 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
-
+<span algin="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh9892&show_icons=true&locale=en&layout=compact" alt="jh9892" /></p>
+ 
+[![Solved.ac Jh9892](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09)](https://solved.ac/jhchoi09/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh9892&show_icons=true&locale=en" alt="jh9892" /></p>
+</span>
