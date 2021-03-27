@@ -1,6 +1,5 @@
-# <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
+## <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
   
-
 - 🔭 I’m college student in Daejeon :)  
   
 - 🌱 I interest Frontend, Data analysis and ML!  
@@ -18,14 +17,14 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/JH9892" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&labelColor=white&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/_xaihoon/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/_xaihoon/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&labelColor=ff69b4&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.facebook.com/j9892/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>    
 </div>  
   
 ## My Stats  
