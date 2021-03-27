@@ -17,7 +17,7 @@ ___
 ![Python](https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python) 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/https://github.com/JH9892" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&labelColor=white&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>
@@ -30,8 +30,8 @@ ___
 </div>  
   
 ## My Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact" align="center" /></div>  
-<div align="left"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09" align="center" /></div>  
 <br/>  
 
 ## Supporting Me (feat. my people)  
