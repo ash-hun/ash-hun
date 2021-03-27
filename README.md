@@ -18,7 +18,7 @@ ___
 
 ## 📞 Connect with me  
 <div align="left">
-<a href="https://github.com/https://github.com/JH9892" target="_blank">
+<a href="https://github.com/JH9892" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&labelColor=white&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_xaihoon/" target="_blank">
