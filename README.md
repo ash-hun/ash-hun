@@ -1,4 +1,4 @@
-### <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
+# <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
   
 
 - 🔭 I’m college student in Daejeon :)  
@@ -10,10 +10,10 @@
 - *⚡ Fun fact: I am slave of coffee☕*  
 
 ## My Skill Set  
-![Html5](https://img.shields.io/badge/Html5-ffb9a6?style=flat-square&logo=HTML5)  
-![Css](https://img.shields.io/badge/Html5-8ccfff?style=flat-square&logo=CSS3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript)  
-![Python](https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python)  
+![Html5](https://img.shields.io/badge/Html5-ffb9a6?style=flat-square&logo=HTML5) 
+![Css](https://img.shields.io/badge/Css3-8ccfff?style=flat-square&logo=CSS3) 
+![JavaScript](https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript) 
+![Python](https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python) 
 
 ## Connect with me  
 <div align="center">
