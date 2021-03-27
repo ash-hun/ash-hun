@@ -30,9 +30,10 @@ ___
 </div>  
   
 ## My Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact" /></div>  
-<div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09" /></div>  
-<br/>  
+<div aling="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
+</div>
 
 ## Supporting Me (feat. my people)  
 <a href="https://github.com/hm5938" align="center">
