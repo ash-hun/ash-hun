@@ -10,13 +10,13 @@ ___
   
 - *⚡ Fun fact: I am slave of coffee☕*  
 
-## My Skill Set  
+## 📔 My Skill Set  
 ![Html5](https://img.shields.io/badge/Html5-ffb9a6?style=flat-square&logo=HTML5) 
 ![Css](https://img.shields.io/badge/Css3-8ccfff?style=flat-square&logo=CSS3) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript) 
 ![Python](https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python) 
 
-## Connect with me  
+## 📞 Connect with me  
 <div align="left">
 <a href="https://github.com/https://github.com/JH9892" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&labelColor=white&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
@@ -29,13 +29,13 @@ ___
 </a>    
 </div>  
   
-## My Stats  
+## 🎫 My Stats  
 <div aling="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
 </div>
 
-## Supporting Me (feat. my people)  
+## 😍 Supporting Me (feat. my people)  
 <a href="https://github.com/hm5938" align="center">
   <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
 </ a> 
