@@ -34,7 +34,10 @@
 <br/>  
 
 ## Supporting Me (feat. my people)  
-![hyemm](https://img.shields.io/badge/Developer-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40&link=https://github.com/hm5938//right)  
-![upswp](https://img.shields.io/badge/Developer-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7&link=https://github.com/upswp//right)
-
+<a href="https://github.com/hm5938" align="center">
+  <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
+</ a> 
+<a href="https://github.com/upswp" align="center">
+  <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
+</ a>  
 
