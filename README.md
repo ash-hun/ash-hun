@@ -1,3 +1,5 @@
+___
+
 ## <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
   
 - 🔭 I’m college student in Daejeon :)  
@@ -28,8 +30,8 @@
 </div>  
   
 ## My Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact" align="center" /></div> 
-<div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09" align="center" /></div>  
 <br/>  
 
 ## Supporting Me (feat. my people)  
