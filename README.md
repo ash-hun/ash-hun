@@ -36,10 +36,46 @@ ___
 </div>
 
 ## 😍 Supporting Me (feat. my people)  
-<a href="https://github.com/hm5938" align="center">
-  <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
-</ a> 
-<a href="https://github.com/upswp" align="center">
-  <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
-</ a>  
-
+<table>
+  <tr>
+    <a href="https://github.com/hm5938" align="center">
+      <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
+    </ a> 
+    <a href="https://github.com/upswp" align="center">
+      <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
+    </ a>  
+  </tr>
+  <tr>
+    <br>
+    <a href="https://github.com/PerfumedHandEssence" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/RottenTofu" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-RottenTofu-9E9E9E?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/cood5199" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-cood5199-E1F5FE?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/sangyeop910" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-sangyeop910-C8E6C9?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/skm0619" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-skm0619-AB47BC?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/HS98094" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-HS98094-5C6BC0?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/sinbak" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-sinbak-757575?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/Dejong" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-Dejong-1A237E?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/Syh1999" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-Syh1999-80CBC4?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/dbswp" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-dbswp-FFF176?style=flat-square&labelColor=000000 />
+    </a>
+  </tr>
+</table>
