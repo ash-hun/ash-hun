@@ -10,57 +10,10 @@
 - *⚡ Fun fact: I am slave of coffee☕*  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Experienced  
-<div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/arduino.png" alt="Arduino" height="25" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/python-original.svg" alt="Python" height="25" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Now Studying  
-<div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Will Study  
-<div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+![Html5](https://img.shields.io/badge/Html5-ffb9a6?style=flat-square&logo=HTML5)  
+![Css](https://img.shields.io/badge/Html5-8ccfff?style=flat-square&logo=CSS3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript)  
+![Python](https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python)  
 
 ## Connect with me  
 <div align="center">
@@ -81,8 +34,7 @@
 <br/>  
 
 ## Supporting Me (feat. my people)  
-<div align="center">
- <img href="https://github.com/hm5938" src="https://user-images.githubusercontent.com/32566767/112731519-0f936780-8f7b-11eb-8064-dea20dee7d4f.png" align="center" />
-</div>  
+![hyemm](https://img.shields.io/badge/Developer-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40&link=https://github.com/hm5938)  
+![upswp](https://img.shields.io/badge/Developer-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7&link=https://github.com/upswp)
 
 
