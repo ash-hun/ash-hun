@@ -68,7 +68,8 @@ ___
     <a href="https://github.com/sinbak" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-sinbak-757575?style=flat-square&labelColor=000000 />
     </a>
-    <a href="https://github.com/Dejong" align="center">
+    <a href="https://github.com/
+Dejong1706" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-Dejong-1A237E?style=flat-square&labelColor=000000 />
     </a>
     <a href="https://github.com/Syh1999" align="center">
