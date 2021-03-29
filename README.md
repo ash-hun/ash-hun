@@ -1,6 +1,6 @@
 ___
 
-## <div align="center">I am Jh9892, Leader of Team 'CMD' and frontend developer! Nice to meet you😆</div>  
+## <div align="center"><p>I am <b>Jh9892</b>, Leader of <b color="darkblue">Team 'CMD'</b> and frontend developer!</p><p>Nice to meet you😆</p></div>  
   
 - 🔭 I’m college student in Daejeon :)  
   
