@@ -12,7 +12,7 @@ ___
   <p>🌱 I interest Frontend, Data analysis and ML</p>
   <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
   <p>⚡ Fun fact: I am slave of coffee☕</p>
-  <br><br>
+  <br>
 </div>
 
 <h3 align="center">🛠Tech Tree⚒</h3>
@@ -26,10 +26,18 @@ ___
 
 <h3 align="center">📞Contact📞</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xaihun98">
-  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/JH9892">
-  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_xaihoon/">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/j9892/">
+  <a href="https://velog.io/@xaihun98">
+    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white">
+  </a>
+  <a href="https://github.com/JH9892">
+  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://instagram.com/_xaihoon/">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/j9892/">
+  <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white">
+  </a>
   <br><br><br>
 </div>
 
@@ -54,7 +62,7 @@ ___
   <tr>
     <br>
       <a href="https://github.com/PerfumedHandEssence" align="center">
-        <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000/>
+        <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000 />
       </a>
       <a href="https://github.com/RottenTofu" align="center">
         <img src=https://img.shields.io/badge/Team.CMD-RottenTofu-9E9E9E?style=flat-square&labelColor=000000 />
