@@ -53,16 +53,30 @@ ___
   </tr>
   <tr>
     <br>
-      <img src="https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000&link=https://github.com/PerfumedHandEssence"/>
-    <a href="https://github.com/RottenTofu" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-RottenTofu-9E9E9E?style=flat-square&labelColor=000000 />
-    </a>
+      <a href="https://github.com/PerfumedHandEssence" align="center">
+        <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000/>
+      </a>
+      <a href="https://github.com/RottenTofu" align="center">
+        <img src=https://img.shields.io/badge/Team.CMD-RottenTofu-9E9E9E?style=flat-square&labelColor=000000 />
+      </a>
+  </tr>
+  <tr>
+    <br>
     <a href="https://github.com/cood5199" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-cood5199-E1F5FE?style=flat-square&labelColor=000000 />
     </a>
     <a href="https://github.com/sangyeop910" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-sangyeop910-C8E6C9?style=flat-square&labelColor=000000 />
     </a>
+    <a href="https://github.com/Dejong1706" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-Dejong-1A237E?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/dbswp" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-dbswp-FFF176?style=flat-square&labelColor=000000 />
+    </a>
+    </tr>
+  <tr>
+    <br>
     <a href="https://github.com/skm0619" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-skm0619-AB47BC?style=flat-square&labelColor=000000 />
     </a>
@@ -72,16 +86,10 @@ ___
     <a href="https://github.com/sinbak" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-sinbak-757575?style=flat-square&labelColor=000000 />
     </a>
-    <a href="https://github.com/
-Dejong1706" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-Dejong-1A237E?style=flat-square&labelColor=000000 />
-    </a>
     <a href="https://github.com/Syh1999" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-Syh1999-80CBC4?style=flat-square&labelColor=000000 />
     </a>
-    <a href="https://github.com/dbswp" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-dbswp-FFF176?style=flat-square&labelColor=000000 />
-    </a>
+    
   </tr>
   <tr>
   
