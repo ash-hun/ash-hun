@@ -14,7 +14,7 @@ ___
   <p>🌱 I interest Frontend, Data analysis and ML</p>
   <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
   <p>⚡ Fun fact: I am slave of coffee☕</p>
-  <br><br><br>
+  <br><br>
 </div>
 
 <h2 align="center">🛠Skill Tree⚒</h2>
