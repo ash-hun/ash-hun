@@ -14,7 +14,7 @@ ___
   <p>🌱 I interest Frontend, Data analysis and ML</p>
   <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
   <p>⚡ Fun fact: I am slave of coffee☕</p>
-  <br>
+  <br><br><br>
 </div>
 
 <h2 align="center">🛠Skill Tree⚒</h2>
@@ -23,7 +23,7 @@ ___
   <img src="(https://img.shields.io/badge/Css3-8ccfff?style=flat-square&logo=CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python"/>
-  <br>
+  <br><br><br>
 </div>
 
 <h2 align="center">📞Connect me📞</h2>
@@ -37,12 +37,14 @@ ___
   <a href="https://www.facebook.com/j9892/" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>    
+  <br><br><br>
 </div>
 
 <h2 align="center">🎫My Stats🎫</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
+  <br><br><br>
 </div>
 
 <h2 align="center">😍Supporting Me (feat. my people)😍</h2>  
