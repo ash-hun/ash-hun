@@ -2,6 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c3a2e0&height=250&section=header&text=I'm%20JH9892&fontColor=ffffff&fontSize=90"/>
   <h4>I am <b>Jh9892</b>, Leader of <b>Team 'CMD'</b> and frontend developer!</h4>
   <h4>Nice to meet you 😆</h4>
+  <div align="center">
+    <a href="https://velog.io/@xaihun98">
+      <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white">
+    </a>
+    <a href="https://github.com/JH9892">
+      <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <a href="https://instagram.com/_xaihoon/">
+      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/j9892/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white">
+    </a>
+    <br>
+  </div>
 </div>  
 
 ___ 
@@ -24,29 +39,22 @@ ___
   <br><br><br>
 </div>
 
-<h3 align="center">📞Contact📞</h3>
-<div align="center">
-  <a href="https://velog.io/@xaihun98">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white">
-  </a>
-  <a href="https://github.com/JH9892">
-  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://instagram.com/_xaihoon/">
-  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/j9892/">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white">
-  </a>
-  <br><br><br>
-</div>
-
-<h3 align="center">🎫My Stats🎫</h3>
+<h3 align="center">🎫My Status🎫</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
   <br><br><br>
 </div>
+
+<h3 align="center">🗂My Projects🗂</h3>
+<a href="https://github.com/JH9892/Life_of_Student">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Life_of_Student"/>
+</a>
+<a href="https://github.com/JH9892/Project-HAEM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Project-HAEM"/>
+</a>
+
+___
 
 <h3 align="center">😍Supporting Me (feat. my people)😍</h3>  
 <div align="center">
@@ -97,12 +105,9 @@ ___
     <a href="https://github.com/Syh1999" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-Syh1999-80CBC4?style=flat-square&labelColor=000000 />
     </a>
-    
-  </tr>
-  <tr>
-  
   </tr>
 </table>
 </div>
+
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=c3a2e0&height=250&section=footer"/></div>
