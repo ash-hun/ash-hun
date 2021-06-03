@@ -41,7 +41,7 @@ ___
 
 <h3 align="center">🎫My Status🎫</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
   <br><br><br>
 </div>
