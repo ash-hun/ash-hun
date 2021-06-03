@@ -18,7 +18,7 @@ ___
 <h3 align="center">🛠Tech Tree⚒</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Html5-ffb9a6?style=flat-square&logo=HTML5"/>
-  <img src="(https://img.shields.io/badge/Css3-8ccfff?style=flat-square&logo=CSS3"/>
+  <img src="https://img.shields.io/badge/Css3-8ccfff?style=flat-square&logo=CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-b3a117?style=flat-square&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/Python-b8daff?style=flat-square&logo=Python"/>
   <br><br><br>
