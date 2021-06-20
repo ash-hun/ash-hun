@@ -26,7 +26,7 @@ ___
   <p>🔭 I’m college student in Daejeon :)</p>
   <p>🌱 I interest Frontend, Data analysis and ML</p>
   <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
-  <p>⚡ Fun fact: I am slave of coffee☕</p>
+  <p>⚡ Funny fact: I am slave of coffee☕</p>
   <br>
 </div>
 
