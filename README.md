@@ -47,13 +47,17 @@ ___
 </div>
 
 <h3 align="center">🗂My Projects🗂</h3>
-<a href="https://github.com/JH9892/Life_of_Student">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Life_of_Student"/>
-</a>
-<a href="https://github.com/JH9892/Project-HAEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Project-HAEM"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/JH9892/Life_of_Student">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Life_of_Student"/>
+  </a>
+  <a href="https://github.com/JH9892/Project-HAEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Project-HAEM"/>
+  </a>
+  <a href="https://github.com/Team-CMD/SPTJ_Web-Crawling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=SPTJ_Web-Crawling"/>
+  </a>
+</div>
 ___
 
 <h3 align="center">😍Supporting Me (feat. my people)😍</h3>  
