@@ -54,9 +54,6 @@ ___
   <a href="https://github.com/JH9892/Project-HAEM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Project-HAEM"/>
   </a>
-  <a href="https://github.com/JH9892/SPTJ_Web-Crawling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=SPTJ_Web-Crawling"/>
-  </a>
 </div>
 
 ___
