@@ -75,7 +75,7 @@ ___
       <img src=https://img.shields.io/badge/Spring-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
     </ a>
     <a href="https://github.com/HS98094" align="center">
-      <img src=https://img.shields.io/badge/DeVlll-HS98094-002d75?style=flat-square&labelColor=FF0000 />
+      <img src=https://img.shields.io/badge/Team.DeVlll-HS98094-002d75?style=flat-square&labelColor=FF0000 />
     </a>
   </tr>
   <tr>
