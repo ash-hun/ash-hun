@@ -72,8 +72,11 @@ ___
       <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
     </ a> 
     <a href="https://github.com/upswp" align="center">
-      <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
-    </ a>  
+      <img src=https://img.shields.io/badge/Spring-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
+    </ a>
+    <a href="https://github.com/HS98094" align="center">
+      <img src=https://img.shields.io/badge/DeVlll-HS98094-002d75?style=flat-square&labelColor=FF0000 />
+    </a>
   </tr>
   <tr>
     <br>
@@ -103,9 +106,6 @@ ___
     <br>
     <a href="https://github.com/skm0619" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-skm0619-AB47BC?style=flat-square&labelColor=000000 />
-    </a>
-    <a href="https://github.com/HS98094" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-HS98094-5C6BC0?style=flat-square&labelColor=000000 />
     </a>
     <a href="https://github.com/sinbak" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-sinbak-757575?style=flat-square&labelColor=000000 />
