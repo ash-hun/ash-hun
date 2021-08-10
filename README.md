@@ -50,6 +50,7 @@ ___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
+  <img src="http://readmeplants.com/get?name=JH9892&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=blackhttps://github.com/devxb/readmeplants"/>
   <br><br><br>
 </div>
 
