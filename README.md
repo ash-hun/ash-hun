@@ -65,9 +65,6 @@ ___
   <a href="https://github.com/JH9892/SPTJ_Web-Crawling">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=SPTJ_Web-Crawling"/>
   </a>
-  <a href="https://github.com/JH9892/sum1s_comfort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=sum1s_comfort"/>
-  </a>
 </div>
 
 ___
