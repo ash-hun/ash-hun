@@ -34,18 +34,12 @@ ___
   <br>
 </div>
 
-<h3 align="center">🗂My Projects🗂</h3>
-<div align="center">
-  <a href="https://github.com/JH9892/Life_of_Student">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Life_of_Student"/>
-  </a>
-  <a href="https://github.com/JH9892/Project-HAEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=Project-HAEM"/>
-  </a>
-  <a href="https://github.com/JH9892/SPTJ_Web-Crawling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JH9892&repo=SPTJ_Web-Crawling"/>
-  </a>
-</div>
+<h3 align="center">🗂My Projects & Study🗂</h3>
+
+|**Project**|  |*Study*|  |
+|:------|:---|:---|:---|  
+| 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** | 
+| 💻 **[Project : Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 📚 **[Study : Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |  📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** |
 
 ___
 
