@@ -1,57 +1,37 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c3a2e0&height=250&section=header&text=I'm%20JH9892&fontColor=ffffff&fontSize=90"/>
-  <h4>I am <b>Jh9892</b>, Leader of <b>Team 'CMD'</b> and frontend developer!</h4>
+  <h4>I am <b>Jh9892</b>, To become a developer who <b>can give trust to others just by my name.</b></h4>
   <h4>Nice to meet you 😆</h4>
-  <div align="center">
-    <a href="https://velog.io/@xaihun98" target="_blank">
-      <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white">
-    </a>
-    <a href="https://github.com/JH9892" target="_blank">
-      <img src="https://img.shields.io/badge/Github-ffffff?style=flat-square&logo=github&logoColor=black">
-    </a>
-    <a href="https://instagram.com/_xaihoon/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/j9892/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://hunspace.notion.site/hunspace/Jh-c715a3d575d948cfb06dc239013d3391" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    </a>
-    <br>
-  </div>
 </div>  
 
 ___ 
 
 <h3 align="center">💬About Me💬</h3>
 <div align="center">
-  <p>🔭 I’m college student in Daejeon :)</p>
-  <p>🌱 I am interested in AI(NLP and DL) and Frontend</p>
-  <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
-  <p>⚡ Funny fact: I am slave of coffee☕</p>
+    <a href="https://velog.io/@xaihun98" target="_blank">
+      <img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white">
+    </a>
+    <a href="https://hunspace.notion.site/hunspace/Jh-c715a3d575d948cfb06dc239013d3391" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-FDF6F0?style=flat&logo=Notion&logoColor=000000"/>
+    </a>
+    <a href="https://github.com/JH9892" target="_blank">
+      <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white">
+    </a>
+    <a href="https://instagram.com/_xaihoon/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/j9892/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white">
+    </a>
+    <br>
+  </div>
   <br>
-</div>
-
-<h3 align="center">🛠Skills Stack⚒</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br/>
-  
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <br><br><br>
-</div>
-
-<h3 align="center">🎫My Status🎫</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9892&hide_border=true"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09"/>
-  <img src="http://readmeplants.com/get?name=JH9892&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=blackhttps://github.com/devxb/readmeplants"/>
-  <br><br><br>
+  <p>👊 I always effort to become a developer who <b>can give trust to others just by my name.</b> </p>
+  <p>🌱 I am interested in AI <i>(Especially <b>NLP</b> and <b>Image Vision</b>)</i> and Frontend Little :)</p>
+  <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
+  <p>⚡ Funny fact: I am Coffee Lover ☕</p>
+  <br>
 </div>
 
 <h3 align="center">🗂My Projects🗂</h3>
@@ -71,6 +51,7 @@ ___
 
 <h3 align="center">😍Supporting Me (feat. my people)😍</h3>  
 <div align="center">
+<p><b>I always thank you your cheers :)</b></p>
 <table>
   <tr>
     <a href="https://github.com/hm5938" align="center">
