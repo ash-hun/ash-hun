@@ -36,10 +36,10 @@ ___
 
 <h3 align="center">🗂My Projects & Study🗂</h3>
 
-|**Project**|  |*Study*|  |
+|**💻 Project**|  |*📚 Study*|  |
 |:------|:---|:---|:---|  
-| 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** | 
-| 💻 **[Project : Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻 **[Project : Life of Student](https://github.com/JH9892/Life_of_Student)** | 📚 **[Study : Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |  📚 **[Study : Apply to Algorithm](https://github.com/JH9892/A2A)** |
+| 💻 **[Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[Only One](https://github.com/Team-CMD/SPTJ-GUIGame)** | 📚 **[Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[js-clone](https://github.com/JH9892/js-clone)** | 
+| 💻 **[Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻  | 📚 **[Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |   |
 
 ___
 
