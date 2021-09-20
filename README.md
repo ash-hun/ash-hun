@@ -36,10 +36,10 @@ ___
 
 <h3 align="center">🗂My Projects & Study🗂</h3>
 
-|**💻 Project**|  |*📚 Study*|  |**`📙 Dev-Information`**|
-|:------|:---|:---|:---|:---|  
+|**💻 Project**|     |*📚 Study*|    |**`📙 Dev-Information`**|
+|:--------------|:---|:----------|:---|:-----------------------|  
 | 💻 **[Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[Only One](https://github.com/Team-CMD/SPTJ-GUIGame)** | 📚 **[Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[DnW](https://github.com/JH9892/dnw)** | 📙 **[Info-Tree](https://github.com/DevvIll/InfoTree)**
-| 💻 **[Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻  | 📚 **[Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |   |   |
+| 💻 **[Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻 **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell_Front)**  | 📚 **[Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |   |   |
 
 ___
 
