@@ -38,7 +38,7 @@ ___
 
 |**💻 Project**|     |*📚 Study*|    |**`📙 Dev-Information`**|
 |:--------------|:---|:----------|:---|:-----------------------|  
-| 💻 **[Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[Only One](https://github.com/Team-CMD/SPTJ-GUIGame)** | 📚 **[Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[DnW](https://github.com/JH9892/dnw)** | 📙 **[Info-Tree](https://github.com/DevvIll/InfoTree)**
+| 💻 **[Life of Student](https://github.com/JH9892/Life_of_Student)** | 💻 **[HNU_GradeScore-Calc](https://github.com/JH9892/HNU_GradeScore-Calc)** | 📚 **[Apply to Algorithm](https://github.com/JH9892/A2A)** | 📚 **[DnW](https://github.com/JH9892/dnw)** | 📙 **[Info-Tree](https://github.com/DevvIll/InfoTree)**
 | 💻 **[Web Crawling](https://github.com/JH9892/SPTJ_Web-Crawling)** | 💻 **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell_Front)**  | 📚 **[Tensorflow - Certification](https://github.com/JH9892/tf-cert)** |   |   |
 
 ___
