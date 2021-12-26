@@ -1,21 +1,15 @@
-## My Info
-![my img]()
+![my img](https://github.com/JH9892/JH9892/blob/master/profile%20demo.png)
 
 ## **소개**
-  <p>👊 I always effort to become a developer who <b>can give trust to others just by my name.</b> </p>
-  <p>🌱 I am interested in AI <i>(Especially <b>NLP</b> and <b>Image Vision</b>)</i> and FE Little :)</p>
-  <p><b>🏆 My goal is to credibility with my name in other people's eyes</b></p>
-  <p>⚡ Funny fact: I am Coffee Lover ☕</p>  
+- **이름** : 최재훈 / Choi Jaehoon
+- **닉네임** : Ash
+- **이메일** : diadiahun0902@gmail.com
+- **블로그** : [Goodmorning Ash](goodmorning-ash.dev)
 
 ## **👤 Project**
-- [Life of Student](https://github.com/JH9892/Life_of_Student)
-- [Syncer-Bell](https://github.com/DevvIll/Syncer-Bell)
-- [A-Bine](https://github.com/JH9892/A_bine)  
-
-## **📑 Study**
-- [DnW](https://github.com/JH9892/dnw)
-- [React_Begin "Movie App"](https://github.com/JH9892/Movie-APP)
-- [tf_cert](https://github.com/JH9892/tf_cert)
+- **[Life of Student](https://github.com/JH9892/Life_of_Student)**
+- **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell)**
+- **[A-Bine](https://github.com/JH9892/A_bine)**  
 
 ## **📖 Careers**
 - 한국원자력안전연구원(KINS), (주) 바론시스템 / 데이터 분류작업 / 2018.06.30. ~ 2018.12.31.  
@@ -30,20 +24,7 @@
 - 인공지능 창의적 아이디어 경진대회 / 한남대학교 SW교육연구사업단 / 2위  
 
 ## **❤ Support Me**   
-<table>
-  <tr>
-    <a href="https://github.com/hm5938" align="center">
-      <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
-    </ a> 
-    <a href="https://github.com/upswp" align="center">
-      <img src=https://img.shields.io/badge/Spring-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
-    </ a>
-    <a href="https://github.com/HS98094" align="center">
-      <img src=https://img.shields.io/badge/Team.DevⅢ-HS98094-002d75?style=flat-square&labelColor=DA1F26 />
-    </a>
-    <a href="https://github.com/dejong1706" align="center">
-      <img src=https://img.shields.io/badge/Team.DevⅢ-Dejong-8d20d6?style=flat-square&labelColor=DA1F26 />
-    </a>
-  </tr>
-</table>
-
+- [hm5938](https://github.com/hm5938)
+- [upswp](https://github.com/upswp)
+- [HS98094](https://github.com/HS98094)
+- [dejong1706](https://github.com/dejong1706)
