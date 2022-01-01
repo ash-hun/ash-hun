@@ -8,8 +8,8 @@
 
 ## **👤 Project**
 - **[Life of Student](https://github.com/JH9892/Life_of_Student)**
-- **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell)**
 - **[A-Bine](https://github.com/JH9892/A_bine)**  
+- **[Syncer-Bell ( 진행중..🔥)](https://github.com/DevvIll/Syncer-Bell)**
 
 ## **📖 Careers**
 - 한국원자력안전연구원(KINS), (주) 바론시스템 / 데이터 분류작업 / 2018.06.30. ~ 2018.12.31.  
