@@ -4,7 +4,7 @@
 - **이름** : 최재훈 / Choi Jaehoon
 - **닉네임** : **`Ash`**
 - **이메일** : diadiahun0902@gmail.com
-- **블로그** : [Goodmorning Ash](goodmorning-ash.dev)
+- **블로그** : [Goodmorning Ash](https://goodmorning-ash.dev/)
 
 ## **👤 Project**
 - **[Life of Student](https://github.com/JH9892/Life_of_Student)**
