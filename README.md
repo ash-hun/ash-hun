@@ -1,4 +1,4 @@
-![my img](https://github.com/JH9892/JH9892/blob/master/profile%20demo.png)
+![my img](https://github.com/JH9892/JH9892/blob/master/profile_demo.png)
 
 ## **소개**
 - **이름** : 최재훈 / Choi Jaehoon
