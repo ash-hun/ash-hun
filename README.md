@@ -5,6 +5,7 @@
 - **닉네임** : **`Ash`**
 - **이메일** : diadiahun0902@gmail.com
 - **블로그** : [Goodmorning Ash](https://goodmorning-ash.dev/)
+- **SNS** : *Instagram `@_ash.__.dev`*
 
 ## **👤 Project**
 - **[Life of Student](https://github.com/JH9892/Life_of_Student)**
