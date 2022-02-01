@@ -7,6 +7,15 @@
 - **블로그** : [Goodmorning Ash](https://goodmorning-ash.dev/)
 - **SNS** : *Instagram `@_ash.__.dev`*
 
+## **⌨️ 기술스택**  
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+</div>
+
 ## **👤 프로젝트**
 - **[Life of Student](https://github.com/JH9892/Life_of_Student)**
 - **[A-Bine ( 리팩토링중..⌨️ )](https://github.com/JH9892/A_bine)**  
