@@ -18,7 +18,7 @@
 
 ## **👤 프로젝트**
 - **[Life of Student](https://github.com/JH9892/Life_of_Student)**
-- **[A-Bine ( 리팩토링중..⌨️ )](https://github.com/JH9892/A_bine)**  
+- **[A-Bine](https://github.com/JH9892/A_bine)**  
 - **[Syncer-Bell ( 진행중..🔥 )](https://github.com/DevvIll/Syncer-Bell)**
 
 ## **📖 커리어**
