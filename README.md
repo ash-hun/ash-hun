@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/>
 </div>
 
 ## **👤 프로젝트**
