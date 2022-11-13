@@ -6,6 +6,7 @@
 - **이메일** : diadiahun0902@gmail.com
 - **블로그** : [Goodmorning Ash](https://goodmorning-ash.dev/)
 - **SNS** : *Instagram `@_ash.__.dev`*
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## **⌨️ 기술스택**  
 
