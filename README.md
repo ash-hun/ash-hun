@@ -20,7 +20,7 @@
 ## **👤 프로젝트**
 - **[A-Bine](https://github.com/JH9892/A_bine)**  
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
-- **[koSlang](https://github.com/Pray2U/koSlang)**
+- **[koSlang](https://github.com/ash-hun/koSlang)**
 - **[ToWakanda (Not Yet)](https://github.com/ash-hun/ToWakanda)**
 
 ## **📖 커리어**
