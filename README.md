@@ -20,8 +20,8 @@
 ## **👤 프로젝트**
 - **[A-Bine](https://github.com/JH9892/A_bine)**  
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
-- **[koSlang](https://github.com/ash-hun/koSlang)**
-- **[ToWakanda (Not Yet)](https://github.com/ash-hun/ToWakanda)**
+- **[koSlang(진행중..)](https://github.com/ash-hun/koSlang)**
+- **[ToWakanda (예정)](https://github.com/ash-hun/ToWakanda)**
 
 ## **📖 커리어**
 - 한국원자력안전연구원(KINS), (주) 바론시스템 / 데이터 분류작업 / 2018.06.30. ~ 2018.12.31.  
