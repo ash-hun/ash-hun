@@ -1,7 +1,7 @@
 ![my img](https://github.com/JH9892/JH9892/blob/master/profile_demo.png)
 
 ## **👋 소개**
-- **이름** : 최재훈 / Choi Jaehoon
+- **이름** : 최재훈 / Choi Jaehun
 - **닉네임** : **`Ash`**
 - **이메일** : diadiahun0902@gmail.com
 - **CV** : [Go!](https://ashhun.notion.site/NLP-667055119c1c4f5ca21cd492ea7d6bcb)
