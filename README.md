@@ -1,8 +1,8 @@
 <div align='center'> <h1><strong><i>Hi, I'm Ash🔥</i></strong></h1></div>
 
-## **👋 Introduction**
 - **Name** : Ash, 최재훈(Choi Jaehun)
 - **Email** : *diadiahun0902@gmail.com*
+- **Blog** : [*GoodMorning, Ash*](https://goodmorning-ash.dev/)
 - **SNS** : *Instagram `@_ash.__.dev`*
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -30,7 +30,8 @@
 - 한남대학교 LINK+ 사업단, 교육질관리센터 / DSACⅢ 과정 수료 / 2021.06.28. ~ 2021.07.02.  
 - (주) 제이탑 미래기술, 한남대학교 / 2021 하계 현장실습 / 2021.07.05. ~ 2021.07.30.  
 - (주) 명품시스템, 한남대학교 / 2022 HCS 실전문제연구사업 / 2022.04.28. ~ 2022.11.04.  
-- (주) 디앤아이컨설팅 / 정보시스템 단위테스트 업무 / 2022.10.17. ~ 2022.10.24. 
+- (주) 디앤아이컨설팅 / 정보시스템 단위테스트 업무 / 2022.10.17. ~ 2022.10.24.
+- 2023 빅리더 AI 인턴쉽 / 2023.06. ~ 
 
 ## **👑 Rewards / Certification**
 - "The 6th Unithon" / 대학생 연합해커톤 유니톤 운영위원회 / 2018.01.28. / Selfarm팀, NH농협 특별상   
