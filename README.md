@@ -1,12 +1,12 @@
-<div align='center'> <h1><strong><i>Hi, I'm Ash🔥</i></strong></h1></div>
+<div align='center'> <h1><strong><i>🔥 Hello, I'm Ash 🔥</i></strong></h1></div>
 
-- **Name** : Ash, 최재훈(Choi Jaehun)
+- **Name** : 최재훈(Choi Jaehun), *Ash*
 - **Email** : *diadiahun0902@gmail.com*
 - **Blog** : [*GoodMorning, Ash*](https://goodmorning-ash.dev/)
 - **SNS** : *Instagram `@_ash.__.dev`*
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## **⌨️ Skill**  
+## **🛠️ Skill**  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,fastapi,flask,pytorch&theme=light" />
@@ -14,7 +14,7 @@
 </p>
 
 
-## **👤 Project**
+## **🤝 Project**
 
 <!--- 
 
@@ -25,7 +25,7 @@
 
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
 
-## **📖 Career**
+## **💻 Career**
 - 한국원자력안전연구원(KINS), (주) 바론시스템 / 데이터 분류작업 / 2018.06.30. ~ 2018.12.31.  
 - 한남대학교 LINK+ 사업단, 교육질관리센터 / DSACⅢ 과정 수료 / 2021.06.28. ~ 2021.07.02.  
 - (주) 제이탑 미래기술, 한남대학교 / 2021 하계 현장실습 / 2021.07.05. ~ 2021.07.30.  
@@ -33,7 +33,7 @@
 - (주) 디앤아이컨설팅 / 정보시스템 단위테스트 업무 / 2022.10.17. ~ 2022.10.24.
 - 2023 빅리더 AI 인턴쉽 / 2023.06. ~ 
 
-## **👑 Rewards / Certification**
+## **🏆 Rewards / Certification**
 - "The 6th Unithon" / 대학생 연합해커톤 유니톤 운영위원회 / 2018.01.28. / Selfarm팀, NH농협 특별상   
 - 2018 SOSCON / 삼성전자 / 2018.10.18. / 발칙한청소기팀, 3등  
 - 제 1회 Teachable NLP / Ainize, Common AI / 2021.05.23. ~ 2021.06.30. / "누군가의 위로", 1위  
