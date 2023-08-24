@@ -4,7 +4,7 @@
 - **Email** : *diadiahun0902@gmail.com*
 - **Blog** : [*GoodMorning, Ash*](https://goodmorning-ash.dev/)
 - **SNS** : *Instagram `@_ash.__.dev`*
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![kaggle Badge](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jh9892)
 
 ## **🛠️ Skill**  
 <p align="center">
@@ -44,6 +44,7 @@
 - HCS 현장연계 미래선도인재양성지원사업 2022학년도 실전문제 연구팀 연구성과 교내 경진대회 / 한남대학교 실전문제연구사업단 / 2022.11.04. / 3위(동상)
 - HCS 현장연계 미래선도인재양성지원사업 2022학년도 실전문제 연구팀 연구성과 본선 경진대회 / 한남대학교 실전문제연구사업단 / 2022.11.11. / 4위(장려상)
 - H-BRIDGE 공학페스티벌 / 한남대학교 산학협력사업단 공학교육혁신센터 / 2022.11.28. ~ 2022.11.30. / 3위(동상)
+
 
 <!--- 
 
