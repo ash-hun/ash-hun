@@ -24,6 +24,7 @@
 --->
 
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
+- **[WelSSISKo](https://github.com/ash-hun/WelSSISKo)**
 
 ## **💻 Career**
 - 한국원자력안전연구원(KINS), (주) 바론시스템 / 데이터 분류작업 / 2018.06.30. ~ 2018.12.31.  
