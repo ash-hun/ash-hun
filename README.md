@@ -24,6 +24,7 @@
 --->
 
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
+- **[Auto-Dataset-Generator](https://github.com/ash-hun/Auto-Dataset-Generator)**
 - **[WelSSISKo](https://github.com/ash-hun/WelSSISKo)**
 
 ## **💻 Career**
