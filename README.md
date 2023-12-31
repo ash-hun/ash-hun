@@ -3,7 +3,6 @@
 - **Name** : 최재훈(Choi Jaehun), *Ash*
 - **Email** : *diadiahun0902@gmail.com*
 - **Blog** : [*GoodMorning, Ash*](https://owlsitnest-1st.tistory.com/)
-- **CV/Resume** : [*Go*](https://ashhun.notion.site/AI-Engineer-1238ae17bdb64586826cbab75dfae578?pvs=4)
 - **SNS** : *Instagram `@_ash.__.dev`*
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![kaggle Badge](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jh9892)
 
@@ -21,7 +20,7 @@
 
 - **[A-Bine](https://github.com/JH9892/A_bine)**  
 - **[koSlang(진행중..)](https://github.com/ash-hun/koSlang)**
-
+- **CV/Resume** : [*Go*](https://ashhun.notion.site/AI-Engineer-1238ae17bdb64586826cbab75dfae578?pvs=4)
 --->
 
 - **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**
