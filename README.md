@@ -24,7 +24,8 @@
 
 --->
 
-- **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**  
+- **[SsukZip](https://github.com/ash-hun/2022-1-CAPSTONE-SsukZip)**
+- **[스테인리스 봉강(Round Bar) 물성예측 서비스](https://github.com/ash-hun/STS-Round-Bar-Material-Properties-Prediction-Service/tree/main)**
 - **[Auto-Dataset-Generator](https://github.com/ash-hun/Auto-Dataset-Generator)**
 - **[WelSSISKo](https://github.com/ash-hun/WelSSISKo)**
 - **[물어보장 : 개인 맞춤형 복지제도 매칭/제공 서비스](https://github.com/ash-hun/Ask-for-Welfare)**
