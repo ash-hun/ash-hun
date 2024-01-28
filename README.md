@@ -17,13 +17,6 @@
 
 ## **🤝 Project**
 
-<!--- 
-
-- **[A-Bine](https://github.com/JH9892/A_bine)**  
-- **[koSlang(진행중..)](https://github.com/ash-hun/koSlang)**
-- **CV/Resume** : [*Go*](https://ashhun.notion.site/AI-Engineer-1238ae17bdb64586826cbab75dfae578?pvs=4)
---->
-
 - **[물어보장 : 개인 맞춤형 복지제도 매칭/제공 서비스](https://github.com/ash-hun/Ask-for-Welfare)**
 - **[WelSSISKo](https://github.com/ash-hun/WelSSISKo)**
 - **[스테인리스 봉강(Round Bar) 물성예측 서비스](https://github.com/ash-hun/STS-Round-Bar-Material-Properties-Prediction-Service/tree/main)**
@@ -42,6 +35,8 @@
 
 
 ## **🏆 Rewards / Certification**
+- 빅리더 AI 인턴쉽 / 한국사회보장정보원, 경남대학교 산학협력단 / 2023.01.16. / 한국사회보장정보원장상
+- 빅리더 AI 인턴쉽 / 세아창원특수강, 경남대학교 산학협력단 / 2023.12.28. / 세아창원특수강 경영기획본부장상
 - H-BRIDGE 공학페스티벌 / 한남대학교 산학협력사업단 공학교육혁신센터 / 2022.11.28. ~ 2022.11.30. / 3위(동상)
 - HCS 현장연계 미래선도인재양성지원사업 2022학년도 실전문제 연구팀 연구성과 본선 경진대회 / 한남대학교 실전문제연구사업단 / 2022.11.11. / 4위(장려상)
 - HCS 현장연계 미래선도인재양성지원사업 2022학년도 실전문제 연구팀 연구성과 교내 경진대회 / 한남대학교 실전문제연구사업단 / 2022.11.04. / 3위(동상)
