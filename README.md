@@ -4,7 +4,8 @@
 - **Email** : *diadiahun0902@gmail.com*
 - **Blog** : [*GoodMorning, Ash*](https://owlsitnest-1st.tistory.com/)
 - **SNS** : *Instagram `@_ash.__.dev`*
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![kaggle Badge](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jh9892)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## **🛠️ Skill**  
 <p align="center">
@@ -48,7 +49,7 @@
 - "The 6th Unithon" / 대학생 연합해커톤 유니톤 운영위원회 / 2018.01.28. / Selfarm팀, NH농협 특별상   
 
 <!--- 
-
+- ![kaggle Badge](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jh9892)
 - **Resume** : [*Go! Ash's resume*](https://ashhun.notion.site/AI-Engineer-1238ae17bdb64586826cbab75dfae578?pvs=4)
 ![ash-hun’s GitHub image](https://crd.so/i/ash-hun)
 
