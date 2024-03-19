@@ -3,7 +3,6 @@
 - **Name** : 최재훈(Choi Jaehun), *Ash*
 - **Email** : *diadiahun0902@gmail.com*
 - **Blog** : [*GoodMorning, Ash*](https://owlsitnest-1st.tistory.com/)
-- **Resume** : [*Go! Ash's resume*](https://ashhun.notion.site/Resume-CV-06079620add74be2b5f17b2034348567?pvs=4)
 - **SNS** : *Instagram `@_ash.__.dev`*
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash-hun&count_bg=%23B99EFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
