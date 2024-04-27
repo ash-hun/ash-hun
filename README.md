@@ -2,8 +2,13 @@
 
 - **Name** : 최재훈 (Choi Jaehun)
 - **Nickname** : *Ash*
-- **Email** : *diadiahun0902@gmail.com*
-- **Study** : 🔍 [Ash-Space](https://ash-space.gitbook.io/ashspace)
+- **Contacts**
+  - **Email** : *diadiahun0902@gmail.com*
+  - **LinkedIn** : [*Profile*](www.linkedin.com/in/choijaehun)
+  - **Study** : [*Ash-Space*](https://ash-space.gitbook.io/ashspace)
+  - **Blog** :
+    - [*Tistory*](https://owlsitnest-1st.tistory.com/)
+    - [*Velog*](https://velog.io/@ash-hun/posts)
 
 
 ## **🛠️ Stacks**  
