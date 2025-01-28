@@ -1,9 +1,10 @@
-<div align='center'>
+<!-- <div align='center'>
 
   <image src="https://github.com/user-attachments/assets/8982e136-63ef-4cfb-95bc-19e346ca8f17" />
 
-</div>
+</div> -->
 
+![bubble](./template.svg)
 
 <!-- 
 ## **🛠️ Stacks**  
