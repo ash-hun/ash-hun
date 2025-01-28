@@ -285,16 +285,13 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="512" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="510" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      If you want to show my activity, please visit my
-      <a xlink:href="https://ash-space.gitbook.io/ashspace">Gitbook</a>.
+      If you want to show my activity, 
     </text>
     <text x="15" y="50">
-      Contact to me
-      <a xlink:href="https://www.linkedin.com/in/choijaehun/">Here</a> 🤙
+      Please visit my <tspan fill="#0079ff">Gitbook</tspan> and <tspan fill="#0079ff">Linked-In</tspan> below my profile 🤙
     </text>
-    
   </g>
 
 </svg>

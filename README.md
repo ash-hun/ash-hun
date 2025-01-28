@@ -1,9 +1,3 @@
-<!-- <div align='center'>
-
-  <image src="https://github.com/user-attachments/assets/8982e136-63ef-4cfb-95bc-19e346ca8f17" />
-
-</div> -->
-
 ![bubble](./template.svg)
 
 <!-- 
