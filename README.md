@@ -1,4 +1,8 @@
-![bubble](./template.svg)
+<div>
+  <image src="./template.svg">
+</div>
+
+<!-- ![bubble](./template.svg) -->
 
 <!-- 
 ## **🛠️ Stacks**  
