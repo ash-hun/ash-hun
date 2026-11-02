@@ -12,51 +12,37 @@
       font-family: 'Inter';
       letter-spacing: -0.02em;
     }
-    
+
     .emoji {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
     }
     .typing-1 {
       opacity: 0;
-      animation: fade-in-out 1.5s;
+      animation: wait 1.3s, fade-in-out 1.5s 1.3s;
     }
     .msg-1 {
-      animation: wait 1.7s, msg-1 0.2s 1.7s;
+      animation: wait 3.0s, msg-1 0.2s 3.0s;
     }
     .typing-2 {
       opacity: 0;
-      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+      animation: wait 3.7s, fade-in-out 1.5s 3.7s;
     }
     .msg-2 {
-      animation: wait 4.2s, msg-2 0.2s 4.2s;
+      animation: wait 5.4s, msg-2 0.2s 5.4s;
     }
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 1.5s 5s;
+      animation: wait 6.1s, fade-in-out 1.5s 6.1s;
     }
     .msg-3 {
-      animation: wait 6.7s, msg-3 0.2s 6.7s;
+      animation: wait 7.8s, msg-3 0.2s 7.8s;
     }
     .typing-4 {
       opacity: 0;
-      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+      animation: wait 8.5s, fade-in-out 1.5s 8.5s;
     }
     .msg-4 {
-      animation: wait 9.2s, msg-4 0.2s 9.2s;
-    }
-    .typing-5 {
-      opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
-    }
-    .msg-5 {
-      animation: wait 11.7s, msg-5 0.2s 11.7s;
-    }
-    .typing-6 {
-      opacity: 0;
-      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
-    }
-    .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 14.2s;
+      animation: wait 10.2s, msg-4 0.2s 10.2s;
     }
     @keyframes wait {
       0%,
@@ -81,7 +67,7 @@
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 0);
+        transform: translate(10px, 0px);
       }
     }
     @keyframes msg-2 {
@@ -114,6 +100,266 @@
         transform: translate(10px, 192px);
       }
     }
+
+    /* Multi-agent cursors: every agent shares one clock.
+       Scene 1 (build, 11s, once): each agent clicks in a message.
+       Scene 2 (collab, 9s, loop): agents select keywords and links. */
+    .pointer {
+      stroke: #ffffff;
+      stroke-width: 1.4;
+      stroke-linejoin: round;
+    }
+    .chip {
+      fill: #ffffff;
+      font-size: 10.5px;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      text-anchor: middle;
+    }
+    .rip {
+      opacity: 0;
+      fill: none;
+      stroke-width: 2;
+    }
+    @keyframes rip {
+      0% {
+        opacity: 0.55;
+        transform: scale(0.2);
+      }
+      99.9% {
+        opacity: 0;
+        transform: scale(3.4);
+      }
+      100% {
+        opacity: 0;
+        transform: scale(0.2);
+      }
+    }
+    @keyframes planner-build {
+      0% { transform: translate(565.0px, 18.0px); opacity: 0; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      0.439% { transform: translate(565.0px, 18.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      10.088% { transform: translate(50.0px, 24.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      19.298% { transform: translate(60.0px, 30.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      26.754% { transform: translate(54.0px, 26.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      32.456% { transform: translate(205.0px, 22.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(209.0px, 19.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes planner-loop {
+      0% { transform: translate(209.0px, 19.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      2.778% { transform: translate(209.0px, 19.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      11.111% { transform: translate(189.8px, 147.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      28.889% { transform: translate(196.8px, 151.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      38.889% { transform: translate(215.0px, 28.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      72.222% { transform: translate(201.0px, 24.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(209.0px, 19.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes planner-sq-build {
+      0%, 100% { transform: scale(1); }
+      10.088% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      10.789% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      12.368% { transform: scale(1); }
+    }
+    @keyframes planner-sq-loop {
+      0%, 100% { transform: scale(1); }
+      11.111% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      12% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      14% { transform: scale(1); }
+    }
+    .ag-planner { animation: planner-build 11.4s linear both, planner-loop 9.0s linear 11.4s infinite; }
+    .sq-planner { animation: planner-sq-build 11.4s linear both, planner-sq-loop 9.0s linear 11.4s infinite; }
+    .rip-planner-b { animation: rip 0.6s cubic-bezier(.33,1,.68,1) 1.15s forwards; }
+    @keyframes planner-rip-0 {
+      0%, 100% { opacity: 0; transform: scale(.2); }
+      11.111% { opacity: 0; transform: scale(.2); }
+      11.222% { opacity: .55; transform: scale(.2); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      17.778% { opacity: 0; transform: scale(3.4); }
+    }
+    @keyframes planner-hl-0 {
+      0%, 100% { opacity: 0; }
+      11.667% { opacity: 0; }
+      13.889% { opacity: 1; }
+      36.667% { opacity: 1; }
+      41.111% { opacity: 0; }
+    }
+    .planner-rip-0 { opacity: 0; animation: planner-rip-0 9.0s linear 11.4s infinite; }
+    .planner-hl-0 { opacity: 0; animation: planner-hl-0 9.0s linear 11.4s infinite; }
+    @keyframes researcher-build {
+      0% { transform: translate(565.0px, 70.0px); opacity: 0; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      21.491% { transform: translate(565.0px, 70.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      31.14% { transform: translate(50.0px, 72.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      40.351% { transform: translate(60.0px, 78.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      47.807% { transform: translate(54.0px, 74.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      53.509% { transform: translate(340.0px, 82.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(344.0px, 79.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes researcher-loop {
+      0% { transform: translate(344.0px, 79.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      6.667% { transform: translate(332.0px, 86.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      13.889% { transform: translate(332.0px, 86.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      22.222% { transform: translate(140.8px, 170.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      33.333% { transform: translate(147.8px, 174.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      44.444% { transform: translate(346.0px, 78.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(344.0px, 79.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes researcher-sq-build {
+      0%, 100% { transform: scale(1); }
+      31.14% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      31.842% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      33.421% { transform: scale(1); }
+    }
+    @keyframes researcher-sq-loop {
+      0%, 100% { transform: scale(1); }
+      22.222% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      23.111% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      25.111% { transform: scale(1); }
+    }
+    .ag-researcher { animation: researcher-build 11.4s linear both, researcher-loop 9.0s linear 11.4s infinite; }
+    .sq-researcher { animation: researcher-sq-build 11.4s linear both, researcher-sq-loop 9.0s linear 11.4s infinite; }
+    .rip-researcher-b { animation: rip 0.6s cubic-bezier(.33,1,.68,1) 3.55s forwards; }
+    @keyframes researcher-rip-0 {
+      0%, 100% { opacity: 0; transform: scale(.2); }
+      22.222% { opacity: 0; transform: scale(.2); }
+      22.333% { opacity: .55; transform: scale(.2); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      28.889% { opacity: 0; transform: scale(3.4); }
+    }
+    @keyframes researcher-hl-0 {
+      0%, 100% { opacity: 0; }
+      22.778% { opacity: 0; }
+      25% { opacity: 1; }
+      47.778% { opacity: 1; }
+      52.222% { opacity: 0; }
+    }
+    .researcher-rip-0 { opacity: 0; animation: researcher-rip-0 9.0s linear 11.4s infinite; }
+    .researcher-hl-0 { opacity: 0; animation: researcher-hl-0 9.0s linear 11.4s infinite; }
+    @keyframes writer-build {
+      0% { transform: translate(565.0px, 140.0px); opacity: 0; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      42.544% { transform: translate(565.0px, 140.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      52.193% { transform: translate(50.0px, 144.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      61.404% { transform: translate(60.0px, 150.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      68.86% { transform: translate(54.0px, 146.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      74.561% { transform: translate(462.0px, 128.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(466.0px, 125.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes writer-loop {
+      0% { transform: translate(466.0px, 125.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      13.333% { transform: translate(457.0px, 134.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      29.444% { transform: translate(457.0px, 134.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      37.778% { transform: translate(197.7px, 170.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      64.444% { transform: translate(204.7px, 174.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      75.556% { transform: translate(456.0px, 132.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(466.0px, 125.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes writer-sq-build {
+      0%, 100% { transform: scale(1); }
+      52.193% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      52.895% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      54.474% { transform: scale(1); }
+    }
+    @keyframes writer-sq-loop {
+      0%, 100% { transform: scale(1); }
+      37.778% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      38.667% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      40.667% { transform: scale(1); }
+    }
+    .ag-writer { animation: writer-build 11.4s linear both, writer-loop 9.0s linear 11.4s infinite; }
+    .sq-writer { animation: writer-sq-build 11.4s linear both, writer-sq-loop 9.0s linear 11.4s infinite; }
+    .rip-writer-b { animation: rip 0.6s cubic-bezier(.33,1,.68,1) 5.95s forwards; }
+    @keyframes writer-rip-0 {
+      0%, 100% { opacity: 0; transform: scale(.2); }
+      37.778% { opacity: 0; transform: scale(.2); }
+      37.889% { opacity: .55; transform: scale(.2); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      44.444% { opacity: 0; transform: scale(3.4); }
+    }
+    @keyframes writer-hl-0 {
+      0%, 100% { opacity: 0; }
+      38.333% { opacity: 0; }
+      40.556% { opacity: 1; }
+      63.333% { opacity: 1; }
+      67.778% { opacity: 0; }
+    }
+    .writer-rip-0 { opacity: 0; animation: writer-rip-0 9.0s linear 11.4s infinite; }
+    .writer-hl-0 { opacity: 0; animation: writer-hl-0 9.0s linear 11.4s infinite; }
+    @keyframes reviewer-build {
+      0% { transform: translate(565.0px, 228.0px); opacity: 0; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      63.596% { transform: translate(565.0px, 228.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      73.246% { transform: translate(50.0px, 216.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      82.456% { transform: translate(60.0px, 222.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      89.912% { transform: translate(54.0px, 218.0px); opacity: 1; animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      96.491% { transform: translate(440.0px, 262.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(444.0px, 259.0px); opacity: 1; animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes reviewer-loop {
+      0% { transform: translate(444.0px, 259.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      17.778% { transform: translate(434.0px, 258.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      39.444% { transform: translate(434.0px, 258.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      47.778% { transform: translate(206.2px, 242.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      57.222% { transform: translate(211.2px, 245.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      65.556% { transform: translate(320.6px, 242.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      81.111% { transform: translate(326.6px, 245.0px); animation-timing-function: cubic-bezier(.22,.8,.3,1); }
+      91.111% { transform: translate(440.0px, 262.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+      100% { transform: translate(444.0px, 259.0px); animation-timing-function: cubic-bezier(.37,0,.63,1); }
+    }
+    @keyframes reviewer-sq-build {
+      0%, 100% { transform: scale(1); }
+      73.246% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      73.947% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      75.526% { transform: scale(1); }
+    }
+    @keyframes reviewer-sq-loop {
+      0%, 100% { transform: scale(1); }
+      47.778% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      48.667% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      50.667% { transform: scale(1); }
+      65.556% { transform: scale(1); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      66.444% { transform: scale(.84); animation-timing-function: cubic-bezier(.34,2.2,.64,1); }
+      68.444% { transform: scale(1); }
+    }
+    .ag-reviewer { animation: reviewer-build 11.4s linear both, reviewer-loop 9.0s linear 11.4s infinite; }
+    .sq-reviewer { animation: reviewer-sq-build 11.4s linear both, reviewer-sq-loop 9.0s linear 11.4s infinite; }
+    .rip-reviewer-b { animation: rip 0.6s cubic-bezier(.33,1,.68,1) 8.35s forwards; }
+    @keyframes reviewer-rip-0 {
+      0%, 100% { opacity: 0; transform: scale(.2); }
+      47.778% { opacity: 0; transform: scale(.2); }
+      47.889% { opacity: .55; transform: scale(.2); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      54.444% { opacity: 0; transform: scale(3.4); }
+    }
+    @keyframes reviewer-hl-0 {
+      0%, 100% { opacity: 0; }
+      48.333% { opacity: 0; }
+      50.556% { opacity: 1; }
+      62.222% { opacity: 1; }
+      66.667% { opacity: 0; }
+    }
+    .reviewer-rip-0 { opacity: 0; animation: reviewer-rip-0 9.0s linear 11.4s infinite; }
+    .reviewer-hl-0 { opacity: 0; animation: reviewer-hl-0 9.0s linear 11.4s infinite; }
+    @keyframes reviewer-rip-1 {
+      0%, 100% { opacity: 0; transform: scale(.2); }
+      65.556% { opacity: 0; transform: scale(.2); }
+      65.667% { opacity: .55; transform: scale(.2); animation-timing-function: cubic-bezier(.33,1,.68,1); }
+      72.222% { opacity: 0; transform: scale(3.4); }
+    }
+    @keyframes reviewer-hl-1 {
+      0%, 100% { opacity: 0; }
+      66.111% { opacity: 0; }
+      68.333% { opacity: 1; }
+      80% { opacity: 1; }
+      84.444% { opacity: 0; }
+    }
+    .reviewer-rip-1 { opacity: 0; animation: reviewer-rip-1 9.0s linear 11.4s infinite; }
+    .reviewer-hl-1 { opacity: 0; animation: reviewer-hl-1 9.0s linear 11.4s infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .typing-1, .typing-2, .typing-3, .typing-4, .msg-1, .msg-2, .msg-3, .msg-4,
+      .ag, .sq, .rip, [class*="-hl-"] {
+        animation: none !important;
+      }
+      .rip, [class*="-hl-"] {
+        opacity: 0;
+      }
+      .ag-planner { transform: translate(209.0px, 19.0px); }
+      .ag-researcher { transform: translate(344.0px, 79.0px); }
+      .ag-writer { transform: translate(466.0px, 125.0px); }
+      .ag-reviewer { transform: translate(444.0px, 259.0px); }
+    }
     @media (prefers-color-scheme: dark) {
       .bubble {
         fill: #3b3b3d;
@@ -121,12 +367,18 @@
       text {
         fill: #dcdcdc;
       }
+      .chip {
+        fill: #ffffff;
+      }
+      .pointer {
+        stroke: #1f1f1f;
+      }
       a {
         fill: #0c82f9;
       }
     }
   </style>
-  
+
   <defs>
     <style>
       /* cyrillic-ext */
@@ -293,5 +545,50 @@
       Please visit my <tspan fill="#0079ff">Gitbook</tspan> and <tspan fill="#0079ff">Linked-In</tspan> below my profile 🤙
     </text>
   </g>
-
+  <g class="reviewer-hl-1"><rect x="254" y="225" width="80" height="21" rx="4" fill="#f97316" fill-opacity=".16" /><rect x="254" y="245" width="80" height="2" rx="1" fill="#f97316" /></g>
+  <g class="reviewer-hl-0"><rect x="149" y="225" width="69" height="21" rx="4" fill="#f97316" fill-opacity=".16" /><rect x="149" y="245" width="69" height="2" rx="1" fill="#f97316" /></g>
+  <g class="writer-hl-0"><rect x="154" y="153" width="53" height="21" rx="4" fill="#a855f7" fill-opacity=".16" /><rect x="154" y="173" width="53" height="2" rx="1" fill="#a855f7" /></g>
+  <g class="researcher-hl-0"><rect x="109" y="153" width="39" height="21" rx="4" fill="#10b981" fill-opacity=".16" /><rect x="109" y="173" width="39" height="2" rx="1" fill="#10b981" /></g>
+  <g class="planner-hl-0"><rect x="158" y="130" width="39" height="21" rx="4" fill="#3b82f6" fill-opacity=".16" /><rect x="158" y="150" width="39" height="2" rx="1" fill="#3b82f6" /></g>
+  <g transform="translate(50, 24)"><circle r="9" class="rip rip-planner-b" stroke="#3b82f6" /></g>
+  <g transform="translate(189.8, 147.0)"><circle r="9" class="rip planner-rip-0" stroke="#3b82f6" /></g>
+  <g transform="translate(50, 72)"><circle r="9" class="rip rip-researcher-b" stroke="#10b981" /></g>
+  <g transform="translate(140.8, 170.0)"><circle r="9" class="rip researcher-rip-0" stroke="#10b981" /></g>
+  <g transform="translate(50, 144)"><circle r="9" class="rip rip-writer-b" stroke="#a855f7" /></g>
+  <g transform="translate(197.7, 170.0)"><circle r="9" class="rip writer-rip-0" stroke="#a855f7" /></g>
+  <g transform="translate(50, 216)"><circle r="9" class="rip rip-reviewer-b" stroke="#f97316" /></g>
+  <g transform="translate(206.2, 242.0)"><circle r="9" class="rip reviewer-rip-0" stroke="#f97316" /></g>
+  <g transform="translate(320.6, 242.0)"><circle r="9" class="rip reviewer-rip-1" stroke="#f97316" /></g>
+  <!-- agent: Engineer -->
+  <g class="ag ag-planner">
+    <g class="sq sq-planner">
+      <path d="M0 0 L0 16.5 L4.4 12.4 L7.3 19 L10.1 17.8 L7.3 11.4 L13 11.4 Z" fill="#3b82f6" class="pointer" />
+      <rect x="12" y="15" width="60" height="17" rx="8.5" fill="#3b82f6" />
+      <text x="42.0" y="27.2" class="chip">Engineer</text>
+    </g>
+  </g>
+  <!-- agent: Researcher -->
+  <g class="ag ag-researcher">
+    <g class="sq sq-researcher">
+      <path d="M0 0 L0 16.5 L4.4 12.4 L7.3 19 L10.1 17.8 L7.3 11.4 L13 11.4 Z" fill="#10b981" class="pointer" />
+      <rect x="12" y="15" width="72" height="17" rx="8.5" fill="#10b981" />
+      <text x="48.0" y="27.2" class="chip">Researcher</text>
+    </g>
+  </g>
+  <!-- agent: Builder -->
+  <g class="ag ag-writer">
+    <g class="sq sq-writer">
+      <path d="M0 0 L0 16.5 L4.4 12.4 L7.3 19 L10.1 17.8 L7.3 11.4 L13 11.4 Z" fill="#a855f7" class="pointer" />
+      <rect x="12" y="15" width="52" height="17" rx="8.5" fill="#a855f7" />
+      <text x="38.0" y="27.2" class="chip">Builder</text>
+    </g>
+  </g>
+  <!-- agent: Career High -->
+  <g class="ag ag-reviewer">
+    <g class="sq sq-reviewer">
+      <path d="M0 0 L0 16.5 L4.4 12.4 L7.3 19 L10.1 17.8 L7.3 11.4 L13 11.4 Z" fill="#f97316" class="pointer" />
+      <rect x="12" y="15" width="80" height="17" rx="8.5" fill="#f97316" />
+      <text x="52.0" y="27.2" class="chip">Career High</text>
+    </g>
+  </g>
 </svg>
